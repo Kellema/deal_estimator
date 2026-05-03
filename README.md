@@ -15,7 +15,7 @@ output:
 ---
 # Objectives
 The joint Monitoring, Evaluation, Accountability and Learning (MEAL) and Data In Emergency (DIEM) impact assessment methodology (DEAL) introduces a robust, harmonized framework for evaluating the outcomes, impacts, and economic value of emergency and resilience-focused agricultural interventions.
-This project leverages R and Shiny to deliver a user-friendly web application designed for conducting propensity score matching on DEAL datasets.
+This project leverages R and Shiny to deliver a user-friendly web application designed for conducting propensity score matching on DEAL datasets. It makes use of MatchIt package for the PSM calculations. 
 
 # Requirements
 - To successfully run the Shiny application, the following criteria must be met:
